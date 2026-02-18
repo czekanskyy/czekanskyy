@@ -21,5 +21,6 @@ Currently a 3rd-year **Aviation (Pilotage)** student, I combine my passion for a
 Writing clean code is a lot like flying an airplane. Both require **rigorous analytical thinking**, a proactive approach to **troubleshooting**, and the ability to **stay calm and solve problems under pressure**. Whether I'm debugging a tricky Next.js component or executing a pre-flight checklist, precision is everything. 
 
 #### 📫 Let's connect:
+* **Portfolio:** [czekanski.dev](https://czekanski.dev)
 * **LinkedIn:** [czekanskyy](https://linkedin.com/in/czekanskyy/)
 * **Commercial Projects:** [sentimenti.pl](https://sentimenti.pl) | [sentistocks.com](https://sentistocks.com) | [caridentdental.pl](https://caridentdental.pl)
